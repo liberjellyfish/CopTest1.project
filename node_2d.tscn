@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dwksnba02b2em"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="main" type="TileMap" parent="."]
+format = 2
